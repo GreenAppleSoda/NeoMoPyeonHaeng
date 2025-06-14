@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973849556311",
+    "project_id": "neomopyeonhaeng",
+    "storage_bucket": "neomopyeonhaeng.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973849556311:android:debdfb77bbfc892248fa12",
+        "android_client_info": {
+          "package_name": "com.GreenAppleSoda.neomopyeonhaeng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB92RTeYNJKu5quRdclKK9pTZzY5MoqqJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
